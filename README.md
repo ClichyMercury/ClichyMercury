@@ -2,18 +2,18 @@
 
 # Bienvenue sur mon profil GitHub !
 
-Je suis **Gaël Sassan**, un développeur passionné par les technologies modernes et spécialisé en **Rust**. Avec une expérience solide dans les **technologies blockchain** et la **défi**, je m'efforce toujours d'apprendre et de contribuer à des projets innovants.
+Je suis **Gaël Sassan**, un développeur passionné par les technologies modernes et spécialisé en **Flutter**. Avec une expérience solide dans les **technologies mobiles** et la **défi**, je m'efforce toujours d'apprendre et de contribuer à des projets innovants.
 
 ## 🚀 Compétences
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Actix_Web-000000?style=for-the-badge&logo=actix-web&logoColor=white" alt="Actix Web" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -25,10 +25,10 @@ Je suis **Gaël Sassan**, un développeur passionné par les technologies modern
 
 ## 🌱 Projets Principaux
 
-- **[Galaxy Stream](https://github.com/ClichyMercury/galaxy-stream)** - Application mobile iOS et Android pour visualiser des informations sur les films et séries (2023).
+- **[Galaxy Stream](https://github.com/ClichyMercury/galaxy-stream)** - Application mobile iOS et Android développée avec Flutter pour visualiser des informations sur les films et séries (2023).
   ![Galaxy Stream](https://via.placeholder.com/600x200.png?text=Galaxy+Stream)
 
-- **[MATURUS](https://github.com/ClichyMercury/maturus)** - Application mobile pour la gestion et suivi de tâches (2024).
+- **[MATURUS](https://github.com/ClichyMercury/maturus)** - Application mobile pour la gestion et suivi de tâches, développée avec Flutter (2024).
   ![MATURUS](https://via.placeholder.com/600x200.png?text=MATURUS)
 
 - **[PHP Blog](https://github.com/ClichyMercury/php-blog)** - Blog personnel utilisant PHP, HTML, et Bootstrap.
