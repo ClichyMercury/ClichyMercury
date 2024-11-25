@@ -27,19 +27,19 @@ Je suis **Gaël Sassan**, un développeur passionné par les technologies modern
 ## 🌱 Projets Principaux
 
 - **[Galaxy Stream](https://github.com/ClichyMercury/galaxy-stream)** - Application mobile iOS et Android développée avec Flutter pour visualiser des informations sur les films et séries (2023).
-  ![Galaxy Stream](https://via.placeholder.com/600x200.png?text=Galaxy+Stream)
+  ![Galaxy Stream]
 
 - **[MATURUS](https://github.com/ClichyMercury/maturus)** - Application mobile pour la gestion et suivi de tâches, développée avec Flutter (2024).
-  ![MATURUS](https://via.placeholder.com/600x200.png?text=MATURUS)
+  ![MATURUS]
 
 - **[PHP Blog](https://github.com/ClichyMercury/php-blog)** - Blog personnel utilisant PHP, HTML, et Bootstrap.
-  ![PHP Blog](https://via.placeholder.com/600x200.png?text=PHP+Blog)
+  ![PHP Blog]
 
 - **[Rust Command Line Tool](https://github.com/ClichyMercury/rust-cli-tool)** - Outil en ligne de commande pour automatiser des tâches récurrentes (2024).
-  ![Rust Command Line Tool](https://via.placeholder.com/600x200.png?text=Rust+Command+Line+Tool)
+  ![Rust Command Line Tool]
 
 - **[Rust API Backend](https://github.com/ClichyMercury/rust-api-backend)** - API REST utilisant Rust et Actix Web pour des opérations CRUD (2024).
-  ![Rust API Backend](https://via.placeholder.com/600x200.png?text=Rust+API+Backend)
+  ![Rust API Backend]
 
 ## 📜 Certifications
 
