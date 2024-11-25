@@ -52,7 +52,6 @@ Je contribue régulièrement à des projets open source et j'aime partager mes c
   <a href="https://github.com/ClichyMercury"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<a href="https://app.daily.dev/gaelsassan"><img src="https://api.daily.dev/devcards/v2/Yph9ft4d4r315dV4hdMlv.png?r=888&type=default" width="356" alt="Gael SASSAN's Dev Card"/></a>
 
 
 N'hésitez pas à me contacter pour discuter de projets, d'opportunités ou tout simplement pour partager des idées !
@@ -61,6 +60,7 @@ N'hésitez pas à me contacter pour discuter de projets, d'opportunités ou tout
 
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 20px;">
+    <a href="https://app.daily.dev/gaelsassan"><img src="https://api.daily.dev/devcards/v2/Yph9ft4d4r315dV4hdMlv.png?r=888&type=default" width="356" alt="Gael SASSAN's Dev Card"/></a>
     <img src="https://github-readme-stats.vercel.app/api?username=ClichyMercury&show_icons=true&theme=radical" alt="GitHub stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClichyMercury&layout=compact&theme=radical" alt="Top Langs" />
   </div>
