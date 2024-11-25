@@ -60,11 +60,11 @@ N'hésitez pas à me contacter pour discuter de projets, d'opportunités ou tout
 
 ---
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ClichyMercury&show_icons=true&theme=radical" alt="GitHub stats" />
 </div>
 
-<div align="center">
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClichyMercury&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 
