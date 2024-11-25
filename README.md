@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 # Bienvenue sur mon profil GitHub !
 
 Je suis **Gaël Sassan**, un développeur passionné par les technologies modernes et spécialisé en **Rust**. Avec une expérience solide dans les **technologies blockchain** et la **défi**, je m'efforce toujours d'apprendre et de contribuer à des projets innovants.
@@ -60,12 +59,11 @@ N'hésitez pas à me contacter pour discuter de projets, d'opportunités ou tout
 
 ---
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ClichyMercury&show_icons=true&theme=radical" alt="GitHub stats" />
-</div>
-
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClichyMercury&layout=compact&theme=radical" alt="Top Langs" />
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ClichyMercury&show_icons=true&theme=radical" alt="GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClichyMercury&layout=compact&theme=radical" alt="Top Langs" />
+  </div>
 </div>
 
 <div align="center">
